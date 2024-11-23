@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Victor_Vallecillos_UF1_ACT12</string>
+    <string name="toggle">Mostrar scrollbar</string>
+    <string name="button_1">Botó 1</string>
+    <string name="button_2">Botó 2</string>
+    <string name="button_3">Botó 3</string>
+    <string name="button_4">Botó 4</string>
+    <string name="button_5">Botó 5</string>
+    <string name="button_6">Botó 6</string>
+    <string name="button_7">Botó 7</string>
+</resources>
